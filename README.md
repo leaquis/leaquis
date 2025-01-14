@@ -1,6 +1,6 @@
 
 <h2>Olá! Eu sou o Giovani Ramos ✌️😎✌️ // Hi! My name is Giovani Ramos ✌️😎✌️<h2/>
-<br/>
+  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovani-ramos/)
 
 ![Giovani GitHub stats](https://github-readme-stats.vercel.app/api?username=leaquis&show_icons=true&theme=dracula)
