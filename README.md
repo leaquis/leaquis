@@ -1,10 +1,11 @@
 
 ###Olá! Eu sou o Giovani Ramos ✌️😎✌️ // Hi! My name is Giovani Ramos ✌️😎✌️
+<br/>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovani-ramos/)
 
 ![Giovani GitHub stats](https://github-readme-stats.vercel.app/api?username=leaquis&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leaquis&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leaquis&langs_count=10&size_weight=0.5&count_weight=0.5)
 
 ###Tecnologias mais utilizadas 🖥️ // Most used technologies 🖥️
 <div style="display: inline_block">
