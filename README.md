@@ -1,5 +1,5 @@
 
-<h2>Olá! Eu sou o Giovani Ramos ✌️😎✌️ // Hi! My name is Giovani Ramos ✌️😎✌️<h2/>
+<h2>Olá! Eu sou o Giovani Ramos ✌️😎✌️ // Hi! I'm Giovani Ramos ✌️😎✌️<h2/>
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovani-ramos/)
 
