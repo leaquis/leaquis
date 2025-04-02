@@ -6,7 +6,6 @@
 ![Giovani GitHub stats](https://github-readme-stats.vercel.app/api?username=leaquis&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leaquis&langs_count=8&size_weight=0.5&count_weight=0.5&theme=dracula )
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leaquis&layout=compact&theme=dracula)
 
 <h3>Tecnologias mais utilizadas 🖥️ // Most used technologies 🖥️<h3/>
 <div style="display: inline_block">
